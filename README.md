@@ -19,7 +19,7 @@ A Python-based project analyzing global weather trends using Jupyter Notebook. T
 ### Installation
 
 ```bash
-git clone https://github.com/Rudra15102004/Weather-Data-Analysis-kaggle.git
+git clone https://github.com/Abeer007-coder/PROJECT-DA-Weather-Data-Analysis-
 cd Weather-Data-Analysis-kaggle
 pip install -r requirements.txt
 ```
